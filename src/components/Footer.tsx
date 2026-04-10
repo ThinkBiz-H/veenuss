@@ -103,11 +103,11 @@ const Footer = () => {
               </a>
 
               <a
-                href="https://www.google.com/maps?q=San+Francisco,+CA"
+                href=""
                 target="_blank"
                 className="flex items-center gap-2 hover:text-primary transition"
               >
-                <MapPin size={16} /> San Francisco, CA
+                <MapPin size={16} /> Noida Uttar Pradesh India
               </a>
             </div>
           </div>
